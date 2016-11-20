@@ -40,10 +40,6 @@ a:focus {
   outline:none;
 }
 
-a:hover {
-  outline:none;
-}
-
 .ajax-link{
 	border:none !important;
 }
